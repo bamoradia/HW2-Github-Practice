@@ -13,3 +13,9 @@ Part 2:
 4. Unsure ASK in class
 5. The latest commit is not stable or has bugs
 
+Part 3: 
+
+1. git checkout -b (name_of_your_new_branch)
+2. git checkout (name_of_your_new_branch)
+3. If you want to test out some features that may be in beta or you may not want in the final release.
+
