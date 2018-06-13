@@ -19,3 +19,7 @@ Part 3:
 2. git checkout (name_of_your_new_branch)
 3. If you want to test out some features that may be in beta or you may not want in the final release.
 
+Part 4: 
+
+1. If you've made a branch and want the features you were testing out to be merged back into the main branch because the features were successfully implemented. 
+2. git push remote master
